@@ -1,7 +1,7 @@
 
 # **Takım İsmi**
 
-Takım X 
+Takım X benvarmıyım
 
 
 # Ürün İle İlgili Bilgiler
