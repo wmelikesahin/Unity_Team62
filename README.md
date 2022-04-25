@@ -1,7 +1,7 @@
 
 # **Takım İsmi**
 
-Takım X asdasd
+Takım X 
 
 
 # Ürün İle İlgili Bilgiler
