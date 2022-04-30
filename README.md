@@ -1,26 +1,26 @@
 
 # **Takım İsmi**
 
-Takım X benvarmıyım
+Takım X
 
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- : Product Owner
-- : Scrum Master
-- : Team Member/Developer
+Serdar Erdem : Product Owner
+Elif Bilge Hamza : Scrum Master
+Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
 
-## Ürün İsmi
+## Oyunun İsmi
 
 --Game--
 
-## Ürün Açıklaması
+## Oyunun Açıklaması
 
 - Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
-## Ürün Özellikleri
+## Oyunun Özellikleri
 
 - Filmleri türüne göre ayırma
 - Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
@@ -32,8 +32,11 @@ Takım X benvarmıyım
 - Netflix kullanıcıları
 - Prime kullanıcıları
 - Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Müzik severler
+- Hikaye severler
+- Platform oyunu severler
+- Macera oyunu severler
+- 7 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
