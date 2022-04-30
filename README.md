@@ -9,8 +9,11 @@ Takım X
 ## Takım Elemanları
 
 Serdar Erdem : Product Owner
+
 Elif Bilge Hamza : Scrum Master
+
 Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
+
 
 ## Oyunun İsmi
 
@@ -26,13 +29,10 @@ Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
 - Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
 - IMDB ve Rotten Tomatoes puanlarını gösterme
 - Netflix'te ve Prime'da bulunurluğunu gösterme
+- Steam, Google Play, ve App stora'da bulunması
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Müzik severler
 - Hikaye severler
 - Platform oyunu severler
 - Macera oyunu severler
