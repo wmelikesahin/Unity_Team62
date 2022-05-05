@@ -8,9 +8,11 @@ Takım X
 
 ## Takım Elemanları
 
-Serdar Erdem : Product Owner
-Elif Bilge Hamza : Scrum Master
-Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
+ Serdar Erdem : Product Owner
+
+ Elif Bilge Hamza : Scrum Master
+
+ Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
 
 ## Oyunun İsmi
 
