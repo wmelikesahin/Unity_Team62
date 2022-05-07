@@ -69,4 +69,6 @@ Alınan Kararlar:
 - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
 
 ## Daily Scrum 
+[DailyScrumMeetingNotesSprint1 (4).docx](https://github.com/wmelikesahin/Unity_Team62/files/8646050/DailyScrumMeetingNotesSprint1.4.docx)
+
 
