@@ -63,9 +63,9 @@ Alınan Kararlar:
 
 ## Sprint Retrospective:
 
-- Takım içindeki görev dağılımları kararlaştırıldı.
+- Takım içindeki görev dağılımları kararlaştırıldı. 
 - Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
-- Müziğin temel unsurlardan olan notalar ödül mantığı ile bağdaştırıldı. 
+- Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
 - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
 
 ## Daily Scrum 
