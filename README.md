@@ -44,7 +44,10 @@ ve ünlü bir piyanist haline gelecek.
 - Macera oyunu severler
 - 9+ yaş kitlesi için uygun
 
+
 ## Product Backlog URL
 
-[Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/  
+[Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
+
+## Sprint Review
 
