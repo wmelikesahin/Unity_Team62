@@ -16,7 +16,7 @@ Expecto Scrumım
 
 ## Oyunun İsmi
 
-Pianist
+Piyanist
 
 ## Oyunun Açıklaması
 
