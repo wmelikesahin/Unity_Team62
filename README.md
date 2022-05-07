@@ -10,7 +10,7 @@ Expecto Scrumım
 
  Product Owner : Serdar Erdem 
 
- Scrum Master :Elif Bilge Hamza
+ Scrum Master : Elif Bilge Hamza
 
  Team Member/Developer : Ayşenur Aksoy, Emre Çakmak, Melike Şahin
 
