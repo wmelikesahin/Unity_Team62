@@ -8,11 +8,11 @@ Expecto Scrumım
 
 ## Takım Elemanları
 
- Product Owner : Serdar Erdem 
+ Serdar Erdem : Product Owner
 
- Scrum Master : Elif Bilge Hamza
+ Elif Bilge Hamza : Scrum Master
 
- Team Member/Developer : Ayşenur Aksoy, Emre Çakmak, Melike Şahin
+ Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
 
 ## Oyunun İsmi
 
@@ -49,4 +49,6 @@ ve ünlü bir piyanist haline gelecek.
 [Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
 
 ## Sprint Review
+
+## Sprint Retrospektifi
 
