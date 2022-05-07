@@ -22,9 +22,9 @@ Piyanist
 
 - Bir piyanistin ilk sahne aldığı günden itibaren şöhreti ve itibarının artmasını sağladığımız bir oyun. Oyun başlarken piyanisti sahnede ilk parçasını çalmak üzere
 iken birkaç seyirci ile birlikte görüyoruz ve yakınlaşarak zihnine doğru bir geçiş yapıyoruz. 
-Zihnine girdiğimizde bu evrende piyanistimizi engeller, dikkat dağıtıcı etkenleri aşmak ve doğru notaları sırasıyla 
-bulmasını zorunlu kılan bir level bekliyor olacak karakter 2d. platform ise 3d gibi dönebilecek şekilde.levelde ekranın üstünde renkli notalar olacak o notaları
- ödül mantığıyla toplayacak ve çıkışa ulaşacak. yanlış yaparsa bölüm tekrar başlayacak.  Doğru çaldığında müziği iyi çaldığını göstereceğiz ertesi gün daha fazla seyirci ve itibar puanı artmış şekilde gözükecek. Seviye atladıkça karakterimiz gelişecek 
+Zihnine girdiğimizde bu evrende piyanistimizi engeller-dikkat dağıtıcı etkenleri aşmak ve doğru notaları sırasıyla 
+bulmasını zorunlu kılan bir level bekliyor olacak. Karakter 2d platform ise 3d gibi dönebilecek şekilde. Levelde ekranın üstünde renkli notalar olacak o notaları
+ ödül mantığıyla toplayacak ve çıkışa ulaşacak. Yanlış yaparsa bölüm tekrar başlayacak.  Doğru çaldığında müziği iyi çaldığını göstereceğiz ertesi gün daha fazla seyirci ve itibar puanı artmış şekilde gözükecek. Seviye atladıkça karakterimiz gelişecek 
 ve ünlü bir piyanist haline gelecek.
 
 ## Oyunun Özellikleri
