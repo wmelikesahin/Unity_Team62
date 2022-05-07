@@ -29,9 +29,12 @@ ve ünlü bir piyanist haline gelecek.
 
 ## Oyunun Özellikleri
  -Oyun müzikleri oyuncunun zevkine göre ayarlanabilir.
- -Karakter kostüm paketi içerir.
- -Oyun içi müzik aleti geliştirme.
- -DLC 
+
+-Karakter kostüm paketi içerir.
+
+-Oyun içi müzik aleti geliştirme.
+
+-DLC 
 
 ## Hedef Kitle
 
