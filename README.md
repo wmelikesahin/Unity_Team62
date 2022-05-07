@@ -68,3 +68,5 @@ Alınan Kararlar:
 - Müziğin temel unsurlardan olan notalar ödül mantığı ile bağdaştırıldı. 
 - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
 
+## Daily Scrum 
+
