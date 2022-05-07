@@ -8,11 +8,11 @@ Expecto Scrumım
 
 ## Takım Elemanları
 
- Serdar Erdem : Product Owner
+ Product Owner : Serdar Erdem 
 
- Elif Bilge Hamza : Scrum Master
+ Scrum Master : Elif Bilge Hamza
 
- Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
+ Team Member/Developer : Ayşenur Aksoy, Emre Çakmak, Melike Şahin
 
 ## Oyunun İsmi
 
@@ -21,8 +21,8 @@ Piyanist
 ## Oyunun Açıklaması
 
 - Bir piyanistin ilk sahne aldığı günden itibaren şöhreti ve itibarının artmasını sağladığımız bir oyun. Oyun başlarken piyanisti sahnede ilk parçasını çalmak üzere
-iken birkaç seyirci ile birlikte görüyoruz ve yakınlaşarak zihnine doğru bir geçiş yapıyoruz 
-zihnine girdiğimizde bu evrende piyanistimizi engelleri-dikkat dağıtıcı etkenleri aşmak ve doğru notaları sırasıyla 
+iken birkaç seyirci ile birlikte görüyoruz ve yakınlaşarak zihnine doğru bir geçiş yapıyoruz. 
+Zihnine girdiğimizde bu evrende piyanistimizi engeller, dikkat dağıtıcı etkenleri aşmak ve doğru notaları sırasıyla 
 bulmasını zorunlu kılan bir level bekliyor olacak karakter 2d. platform ise 3d gibi dönebilecek şekilde.levelde ekranın üstünde renkli notalar olacak o notaları
  ödül mantığıyla toplayacak ve çıkışa ulaşacak. yanlış yaparsa bölüm tekrar başlayacak.  Doğru çaldığında müziği iyi çaldığını göstereceğiz ertesi gün daha fazla seyirci ve itibar puanı artmış şekilde gözükecek. Seviye atladıkça karakterimiz gelişecek 
 ve ünlü bir piyanist haline gelecek.
@@ -49,6 +49,4 @@ ve ünlü bir piyanist haline gelecek.
 [Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
 
 ## Sprint Review
-
-## Sprint Retrospektifi
 
