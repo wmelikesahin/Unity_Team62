@@ -8,11 +8,11 @@ Expecto Scrumım
 
 ## Takım Elemanları
 
- Serdar Erdem : Product Owner
+ Product Owner : Serdar Erdem 
 
- Elif Bilge Hamza : Scrum Master
+ Scrum Master :Elif Bilge Hamza
 
- Ayşenur Aksoy, Emre Çakmak, Melike Şahin: Team Member/Developer
+ Team Member/Developer : Ayşenur Aksoy, Emre Çakmak, Melike Şahin
 
 ## Oyunun İsmi
 
