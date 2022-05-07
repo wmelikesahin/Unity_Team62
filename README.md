@@ -53,3 +53,18 @@ ve ünlü bir piyanist haline gelecek.
 
 ## Sprint Review
 
+Alınan Kararlar:
+- Takım adı belirlendi.
+- Baş karaktermizin genel özellikleri belirlendi.
+- Oyunumuzda kullanılacak müzik türü belirlendi.
+- Oyun içi satın alım (market) planlaması yapıldı.
+- Konsept art assetleri oyunun dönemine göre araştırıldı ve arşivlendi.
+- Oyun elementleri ve mekaniği kesinleşti.  
+
+## Sprint Retrospective:
+
+- Takım içindeki görev dağılımları kararlaştırıldı.
+- Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
+- Müziğin temel unsurlardan olan notalar ödül mantığı ile bağdaştırıldı. 
+- Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
+
