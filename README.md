@@ -38,7 +38,7 @@ ve ünlü bir piyanist haline gelecek.
 - Prime kullanıcıları
 - Sinema severler
 - Müzik severler
-- Hikaye severler
+- Hikaye içerikli oyun severler
 - Platform oyunu severler
 - Macera oyunu severler
 - 9+ yaş kitlesi için uygun
