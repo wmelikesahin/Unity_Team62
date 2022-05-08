@@ -90,18 +90,13 @@ Alınan Kararlar:
 
 
 - **Sprint Review**: 
+
 Alınan kararlar: 
-
 - Takım adı belirlendi.
-
 - Baş karaktermizin genel özellikleri belirlendi.
-
 - Oyunumuzda kullanılacak müzik türü belirlendi.
-
 - Oyun içi satın alım (market) planlaması yapıldı.
-
 - Konsept art assetleri oyunun dönemine göre araştırıldı ve arşivlendi.
-
 - Oyun elementleri ve mekaniği kesinleşti.  
 
 
@@ -113,13 +108,10 @@ Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
 
 - **Sprint Retrospective:**
 
-- Takım içindeki görev dağılımları kararlaştırıldı. 
-
-- Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
-
-- Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
-
-- Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
+  - Takım içindeki görev dağılımları kararlaştırıldı. 
+  - Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
+  - Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
+  - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
 
 
 
