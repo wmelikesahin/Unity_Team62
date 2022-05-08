@@ -56,7 +56,7 @@ ve ünlü bir piyanist haline gelecek.
 
 
 
-- **Daily Scrum**:[Sprint 1 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -88,9 +88,10 @@ Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy,
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımları kararlaştırıldı. 
-  - Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
+  - Oyuncunun oyundan kopmaması için oyunun bağlamının dışına çıkılmamalı.
+  - Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının yatay yerine dikey pozisyonda yapılmasına karar verildi.
   - Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
-  - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
+
 
 
 
