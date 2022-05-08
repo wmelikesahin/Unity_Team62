@@ -63,17 +63,17 @@ ve ünlü bir piyanist haline gelecek.
 
 
 
-![Backlog 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201.png)
+![Backlog 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/MiroSprint1.png)
 
-![Backlog 2](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(2).png)
+![Backlog 2](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/MiroSprint1(2).png)
 
-![Backlog 3](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(3).png)
+![Backlog 3](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/MiroSprint1(3).png)
 
-![Backlog 4](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(4).png)
+![Backlog 4](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/MiroSprint1(4).png)
 
 - **Ürün Durumu**: 
  Ekran görüntüsü:
-  ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/UrunDurumu.png?raw=true)
+  ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/UrunDurumu.png)
 
 
 - **Sprint Review**: 
