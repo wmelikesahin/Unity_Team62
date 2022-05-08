@@ -73,6 +73,7 @@ ve ünlü bir piyanist haline gelecek.
 
 
 - **Sprint Review**: 
+
   Alınan kararlar: 
   - Takım adı belirlendi.
   - Baş karaktermizin genel özellikleri belirlendi.
@@ -82,7 +83,7 @@ ve ünlü bir piyanist haline gelecek.
   - Oyun elementleri ve mekaniği kesinleşti.  
 
 
-Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
+  Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
 
 
 
