@@ -34,7 +34,7 @@ ve ünlü bir piyanist haline gelecek.
 
 -Oyun içi müzik aleti geliştirme.
 
--DLC 
+-Ekstra özellikler sunan DLC paketlerinin sunulması.
 
 ## Hedef Kitle
 
@@ -68,7 +68,67 @@ Alınan Kararlar:
 - Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
 - Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
 
-## Daily Scrum 
-[DailyScrumMeetingNotesSprint1 (4).docx](https://github.com/wmelikesahin/Unity_Team62/files/8646050/DailyScrumMeetingNotesSprint1.4.docx)
 
+# Sprint 1
+
+
+
+- **Daily Scrum**:[Sprint 1 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+
+![Backlog 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201.png)
+
+![Backlog 2](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(2).png)
+
+![Backlog 3](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(3).png)
+
+![Backlog 4](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(4).png)
+
+
+- **Sprint Review**: 
+Alınan kararlar: 
+
+- Takım adı belirlendi.
+
+- Baş karaktermizin genel özellikleri belirlendi.
+
+- Oyunumuzda kullanılacak müzik türü belirlendi.
+
+- Oyun içi satın alım (market) planlaması yapıldı.
+
+- Konsept art assetleri oyunun dönemine göre araştırıldı ve arşivlendi.
+
+- Oyun elementleri ve mekaniği kesinleşti.  
+
+
+Sprint Review katılımcıları:
+
+Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
+
+
+
+- **Sprint Retrospective:**
+
+- Takım içindeki görev dağılımları kararlaştırıldı. 
+
+- Mekanikler ve kullanıcı kolaylığı gereğince oyun ekranının dikey pozisyonda yapılmasına karar verildi.
+
+- Müziğin temel unsurlarından olan nota sembolleri ödül mantığı ile bağdaştırıldı. 
+
+- Oyunun bağlamının dışına çıkılmaması gerektiği kararlaştırıldı.
+
+
+
+# Sprint 2
+
+
+---
+
+# Sprint 3
+
+---
 
