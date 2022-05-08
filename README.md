@@ -71,6 +71,10 @@ ve ünlü bir piyanist haline gelecek.
 
 ![Backlog 4](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint1Documents/Miro%20Sprint%201%20(4).png)
 
+- **Ürün Durumu**: 
+ Ekran görüntüsü:
+  ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/UrunDurumu.png?raw=true)
+
 
 - **Sprint Review**: 
 
