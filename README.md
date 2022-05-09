@@ -83,6 +83,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Ürün Durumu**: 
  Ekran görüntüsü:
   ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint1Documents/UrunDurumu.png)
+  
+ - **Level Ekranı**:
+  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/%C3%9Cr%C3%BCng%C3%B6rselilevelekran%C4%B1.png)
+  
+  - **Wireframe**:
+  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/wireframe.png)
+  
 
 
 - **Sprint Review**: 
