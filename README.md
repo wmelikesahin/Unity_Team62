@@ -131,7 +131,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 -Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
-- **Daily Scrum**:  screenshot dosyası konulacak
+- **Daily Scrum**: [12.docx](https://github.com/wmelikesahin/Unity_Team62/files/8752924/12.docx)
+
 - - **Sprint board update**: Sprint board screenshotları:
 - 
 - **Sprint Review**: 
