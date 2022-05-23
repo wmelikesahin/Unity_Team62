@@ -122,7 +122,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 [Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
 -Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
--Sprint içinde tamamlanması tahmin edilen puan: 125 Puan
+-Sprint içinde tamamlanması tahmin edilen puan: 162 Puan
 
 -Puan tamamlama mantığı: Fibonacci dizisi kullanılarak proje boyunca tamamlanması gereken toplam 342 puanlık backlog bulunmaktadır.
 
