@@ -149,7 +149,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/level%20design.png)
 
 Kod:
-![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/UrunDurumu.png)
+![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/KodDurumu .png)
 
 - **Sprint Review**: 
 
