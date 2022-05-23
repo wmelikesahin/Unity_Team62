@@ -131,8 +131,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 -Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
-- **Daily Scrum**: [12.docx](https://github.com/wmelikesahin/Unity_Team62/files/8757599/12.docx)
-
+- **Daily Scrum**: [12.docx](https://github.com/wmelikesahin/Unity_Team62/files/8752924/12.docx)
 
 - - **Sprint board update**: Sprint board screenshotları:
 - 
@@ -141,12 +140,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   Alınan kararlar: 
  
 - Karakterin özellikleri belirlendi.
-
-- Levellerdeki platform biçimleri tartışıldı.
+- Karakterin hikayesine uygun müzik tercihleri belirlendi.
+- 
+- Levellerdeki platform tasarımları netleşti. 
 
   Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
   
   - **Sprint Retrospective:**
+  - Oyun senaryosu çok küçük yaş aralığına uygun olmadığı için yapılan toplantılar sonucunda oyuncu  yaş aralığı yükseltildi. 
+  - Oyun konseptine uygun renk tonları belirlendi.
+  - Oyun temasına uygun olabilecek müzik seçimleri daha spesifikleştirildi.
   - 
 
 
