@@ -157,7 +157,8 @@ Kod:
  
   - Karakterin özellikleri belirlendi.
   - Karakterin hikayesine uygun müzik tercihleri belirlendi.
-  - Levellerdeki platform tasarımları netleşti. 
+  - Levellerdeki platform tasarımları netleşti.
+  - Karakterin hareketi için UI Controller'ı belirlendi.
 
   Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
   
