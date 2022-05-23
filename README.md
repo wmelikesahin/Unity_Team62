@@ -117,6 +117,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 2
+## Product Backlog URL
+
+[Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
 -Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 -Sprint içinde tamamlanması tahmin edilen puan: 125 Puan
