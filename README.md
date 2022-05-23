@@ -134,9 +134,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: [12.docx](https://github.com/wmelikesahin/Unity_Team62/files/8752924/12.docx)
 
 - - **Sprint board update**: Sprint board screenshotları:
-- ![Backlog 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/Miro1.png)
+- ![Backlog 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint2Documents/YeniMiro.png)
 - ![Backlog 2](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/miro2.png)
-- ![Backlog 3](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/miro3.png)
+- ![Backlog 3](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint2Documents/YeniMiro3.png)
 
 - **Ürün Durumu**: 
  Ekran görüntüleri:
