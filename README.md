@@ -139,8 +139,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
   Alınan kararlar: 
  
-- 
-- 
+- Karakterin özellikleri belirlendi.
+
+- Levellerdeki platform biçimleri tartışıldı.
 
   Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
   
