@@ -117,6 +117,20 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 2
+- **Daily Scrum**:  screenshot dosyası konulacak
+- - **Sprint board update**: Sprint board screenshotları:
+- 
+- **Sprint Review**: 
+
+  Alınan kararlar: 
+ 
+- 
+- 
+
+  Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
+  
+  - **Sprint Retrospective:**
+  - 
 
 
 ---
