@@ -44,7 +44,7 @@ ve ünlü bir piyanist haline gelecek.
 - Hikaye içerikli oyun severler
 - Platform oyunu severler
 - Macera oyunu severler
-- 9+ yaş kitlesi için uygun
+- 12+ yaş kitlesi için uygun
 
 
 ## Product Backlog URL
@@ -117,6 +117,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 2
+-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+-Sprint içinde tamamlanması tahmin edilen puan: 125 Puan
+
+-Puan tamamlama mantığı: Fibonacci dizisi kullanılarak proje boyunca tamamlanması gereken toplam 342 puanlık backlog bulunmaktadır.
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
 - **Daily Scrum**:  screenshot dosyası konulacak
 - - **Sprint board update**: Sprint board screenshotları:
 - 
