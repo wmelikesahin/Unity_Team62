@@ -154,18 +154,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
   Alınan kararlar: 
  
-- Karakterin özellikleri belirlendi.
-- Karakterin hikayesine uygun müzik tercihleri belirlendi.
-- 
-- Levellerdeki platform tasarımları netleşti. 
+  - Karakterin özellikleri belirlendi.
+  - Karakterin hikayesine uygun müzik tercihleri belirlendi.
+  - Levellerdeki platform tasarımları netleşti. 
 
   Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
   
-  - **Sprint Retrospective:**
+- **Sprint Retrospective:**
+ 
   - Oyun senaryosu çok küçük yaş aralığına uygun olmadığı için yapılan toplantılar sonucunda oyuncu  yaş aralığı yükseltildi. 
   - Oyun konseptine uygun renk tonları belirlendi.
   - Oyun temasına uygun olabilecek müzik seçimleri daha spesifikleştirildi.
-  - 
 
 
 ---
