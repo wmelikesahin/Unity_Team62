@@ -44,7 +44,7 @@ ve ünlü bir piyanist haline gelecek.
 - Hikaye içerikli oyun severler
 - Platform oyunu severler
 - Macera oyunu severler
-- 9+ yaş kitlesi için uygun
+- 12+ yaş kitlesi için uygun
 
 
 ## Product Backlog URL
@@ -117,6 +117,57 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 2
+## Product Backlog URL
+
+[Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
+-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+-Sprint içinde tamamlanması tahmin edilen puan: 162 Puan
+
+-Puan tamamlama mantığı: Fibonacci dizisi kullanılarak proje boyunca tamamlanması gereken toplam 342 puanlık backlog bulunmaktadır.
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
+- **Daily Scrum**: [12.docx2.docx](https://github.com/wmelikesahin/Unity_Team62/files/8757941/12.docx2.docx)
+
+
+- - **Sprint board update**: Sprint board screenshotları:
+- ![Backlog 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint2Documents/YeniMiro.png)
+- ![Backlog 2](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/miro2.png)
+- ![Backlog 3](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint2Documents/YeniMiro3.png)
+
+- **Ürün Durumu**: 
+ Ekran görüntüleri:
+ Karakter Tasarım: 
+ ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/karakter%20tasar%C4%B1m%C4%B1.png)
+ 
+ Level Tasarımı:
+![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/level%20design%201.png)
+
+![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint2Documents/level%20design.png)
+
+Kod:
+![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/Sprint2Documents/KodDurumu%20.png)
+
+- **Sprint Review**: 
+
+  Alınan kararlar: 
+ 
+  - Karakterin özellikleri belirlendi.
+  - Karakterin hikayesine uygun müzik tercihleri belirlendi.
+  - Levellerdeki platform tasarımları netleşti.
+  - Karakterin hareketi için UI Controller'ı belirlendi.
+
+  Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
+  
+- **Sprint Retrospective:**
+ 
+  - Oyun senaryosu çok küçük yaş aralığına uygun olmadığı için yapılan toplantılar sonucunda oyuncu  yaş aralığı yükseltildi. 
+  - Oyun konseptine uygun renk tonları belirlendi.
+  - Oyun temasına uygun olabilecek müzik seçimleri daha spesifikleştirildi.
 
 
 ---
