@@ -16,7 +16,7 @@ Expecto Scrumım
 
 ## Oyunun İsmi
 
-Piyanist
+Triole
 
 ## Oyunun Açıklaması
 
