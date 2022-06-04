@@ -36,43 +36,43 @@ public class RotRef : MonoBehaviour
         time += Time.deltaTime;
         if (time >= 360) time = 0f;
 
-        
+
 
         if (Mathf.Abs(side) == 4) side = 0;
 
-       
 
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                rot += 90; side--;
-                if (side == -2) side = 2;
-                if (side == -3) side = 1;
-                if (side == -1) side = 3;
-                Player.isJumping = false;
 
-                initRotPlayer.y += 90;
-                StartCoroutine(PlayerRotateWithDelay());
-               
-            }
-            if (Input.GetKeyDown(KeyCode.D))
-            {
-                rot -= 90; side++; 
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            rot += 90; side--;
+            if (side == -2) side = 2;
+            if (side == -3) side = 1;
+            if (side == -1) side = 3;
+            Player.isJumping = false;
 
-                Player.isJumping = false;
-                initRotPlayer.y -= 90;
-                StartCoroutine(PlayerRotateWithDelay());
-               
+            initRotPlayer.y += 90;
+            StartCoroutine(PlayerRotateWithDelay());
 
-            }
+        }
+        if (Input.GetKeyDown(KeyCode.D))
+        {
+            rot -= 90; side++;
 
-            initRot.y = rot;
+            Player.isJumping = false;
+            initRotPlayer.y -= 90;
+            StartCoroutine(PlayerRotateWithDelay());
 
-           
-            transform.rotation = Quaternion.Euler(initRot);
 
-            pont.transform.rotation = transform.rotation;
-           
-        
+        }
+
+        initRot.y = rot;
+
+
+        transform.rotation = Quaternion.Euler(initRot);
+
+        pont.transform.rotation = transform.rotation;
+
+
     }
 
     IEnumerator PlayerRotateWithDelay()
@@ -83,7 +83,7 @@ public class RotRef : MonoBehaviour
 
     void playerReset()
     {
-       
+
     }
 
 }

@@ -32,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
     {
 
         isMoving = (Horizontal > 0 || Horizontal < 0);
-       
+
 
         castRays();
     }
@@ -76,10 +76,10 @@ public class PlayerMovement : MonoBehaviour
             else
                 playerRender.flipX = true;
 
-          
+
 
         }
-       
+
 
 
         if (wallMove)
@@ -135,7 +135,7 @@ public class PlayerMovement : MonoBehaviour
 
     RaycastHit hit, hit1;
     RaycastHit[] hits;
-   
+
 
 
     Vector3 targetp;
@@ -149,7 +149,7 @@ public class PlayerMovement : MonoBehaviour
 
             grounded = Physics.Raycast(transform.position, Vector3.down, out hit, 0.6f, LayerMask.GetMask("ground")) ? true : false;
 
-           
+
             if (RotRef.side % 2 == 0)
             {
                 targetp = -rayObject.transform.forward;
@@ -163,7 +163,7 @@ public class PlayerMovement : MonoBehaviour
                     targetp = rayObject.transform.position + Vector3.right * 1000;
                 else
                     targetp = rayObject.transform.position + Vector3.left * 1000;
-                
+
             }
             hits = Physics.RaycastAll(rayObject.transform.position, targetp, 1000f, LayerMask.GetMask("ground"));
 
@@ -180,12 +180,12 @@ public class PlayerMovement : MonoBehaviour
                     pos.x = hits[0].collider.transform.position.x;
 
                 }
-               
+
                 transform.position = pos;
-               
+
                 hits = null;
 
-               
+
             }
             else
             {
@@ -202,7 +202,7 @@ public class PlayerMovement : MonoBehaviour
                         targetp = rayObject.transform.position + Vector3.left * 1000;
                     else
                         targetp = rayObject.transform.position + Vector3.right * 1000;
-                   
+
                 }
                 Debug.DrawLine(rayObject.transform.position, targetp, Color.blue);
                 if (Physics.Raycast(rayObject.transform.position, targetp, out hit1, 1000f, LayerMask.GetMask("ground")) && !grounded)
@@ -219,9 +219,9 @@ public class PlayerMovement : MonoBehaviour
 
                     currCube = hit1.collider.gameObject;
 
-                   
+
                 }
-               
+
 
             }
         }
@@ -230,6 +230,6 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-   
+
 
 }

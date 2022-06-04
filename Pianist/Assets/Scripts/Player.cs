@@ -7,13 +7,13 @@ public class Player : MonoBehaviour
     [SerializeField] GameObject rayObject;
     [SerializeField] public Transform refForGameover;
 
-    
+
     public float moveSpeed = 10f;
     public Vector2 direction;
     private bool facingRight = true;
 
 
-   
+
     public float jumpSpeed = 15f;
     public float jumpDelay = 0.25f;
     private float jumpTimer;
@@ -42,102 +42,102 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-       
+
     }
 
-    
+
     void Update()
     {
-          bool wasOnGround = onGround;
-            onGround = Physics.Raycast(transform.position + colliderOffset, Vector2.down, groundLength, groundLayer) ||
-                Physics.Raycast(transform.position - colliderOffset, Vector2.down, groundLength, groundLayer) ||
-                Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer);
-
-           
-
-            if (Input.GetButtonDown("Jump"))
-            {
-                jumpTimer = Time.time + jumpDelay;
-                isJumping = true;
-            }
-
-            walled = Physics.Raycast(transform.position, transform.forward, out hit, 4f, LayerMask.GetMask("ladder"));
+        bool wasOnGround = onGround;
+        onGround = Physics.Raycast(transform.position + colliderOffset, Vector2.down, groundLength, groundLayer) ||
+            Physics.Raycast(transform.position - colliderOffset, Vector2.down, groundLength, groundLayer) ||
+            Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer);
 
 
-            direction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-            isMoving = (direction.x != 0);
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            jumpTimer = Time.time + jumpDelay;
+            isJumping = true;
+        }
+
+        walled = Physics.Raycast(transform.position, transform.forward, out hit, 4f, LayerMask.GetMask("ladder"));
 
 
-            castRays();
-
-            if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow))
-            {
-                if (onGround)
-                    rb.velocity = new Vector3(0, 0, 0);
-            }
-
-            if (Input.GetKey(KeyCode.UpArrow) && walled)
-            {
-                wallMove = true;
-                animator.SetBool("isClimb", true);
-
-                rb.isKinematic = true;
-            }
-            if (Input.GetKeyDown(KeyCode.DownArrow) && wallMove)
-            {
-                rb.isKinematic = false;
-                wallMove = false;
-                animator.SetBool("isClimb", false);
-            }
+        direction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        isMoving = (direction.x != 0);
 
 
-           
-        
+        castRays();
+
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            if (onGround)
+                rb.velocity = new Vector3(0, 0, 0);
+        }
+
+        if (Input.GetKey(KeyCode.UpArrow) && walled)
+        {
+            wallMove = true;
+            animator.SetBool("isClimb", true);
+
+            rb.isKinematic = true;
+        }
+        if (Input.GetKeyDown(KeyCode.DownArrow) && wallMove)
+        {
+            rb.isKinematic = false;
+            wallMove = false;
+            animator.SetBool("isClimb", false);
+        }
+
+
+
+
     }
     void FixedUpdate()
     {
-      
-        
-            if (!wallMove)
-                moveCharacter(direction.x);
 
 
-            if (wallMove)
+        if (!wallMove)
+            moveCharacter(direction.x);
+
+
+        if (wallMove)
+        {
+            if (!walled) { wallMove = false; animator.SetBool("isClimb", false); rb.isKinematic = false; };
+
+
+
+
+            if (RotRef.side % 2 == 0)
             {
-                if (!walled) { wallMove = false; animator.SetBool("isClimb", false); rb.isKinematic = false; };
+                if (RotRef.side == 0) dir = 1;
+                else dir = -1;
 
+                transform.Translate(direction.x * dir * 0.05f, direction.y * 0.05f, 0);
+            }
+            else
+            {
+                if (RotRef.side == 1) dir = 1;
+                else dir = -1;
 
-     
-
-                if (RotRef.side % 2 == 0)
-                {
-                    if (RotRef.side == 0) dir = 1;
-                    else dir = -1;
-
-                    transform.Translate(direction.x * dir * 0.05f, direction.y * 0.05f, 0);
-                }
-                else
-                {
-                    if (RotRef.side == 1) dir = 1;
-                    else dir = -1;
-
-                    transform.Translate(0, direction.y * 0.05f, direction.x * dir * 0.05f);
-                }
-
-
+                transform.Translate(0, direction.y * 0.05f, direction.x * dir * 0.05f);
             }
 
 
-            if (jumpTimer > Time.time && (onGround || walled))
-            {
-                walled = false; wallMove = false;
-                rb.isKinematic = false;
-                Jump();
-            }
+        }
 
-            modifyPhysics();
-        
-    
+
+        if (jumpTimer > Time.time && (onGround || walled))
+        {
+            walled = false; wallMove = false;
+            rb.isKinematic = false;
+            Jump();
+        }
+
+        modifyPhysics();
+
+
     }
 
     int dir = 1;
@@ -149,14 +149,14 @@ public class Player : MonoBehaviour
         {
             if (RotRef.side == 0) dir = 1;
             else dir = -1;
-      
+
             rb.AddForce(new Vector3(horizontal * dir * moveSpeed, 0, 0));
         }
         else
         {
             if (RotRef.side == 1) dir = 1;
             else dir = -1;
-           
+
             rb.AddForce(new Vector3(0, 0, horizontal * dir * moveSpeed));
         }
 
@@ -164,13 +164,13 @@ public class Player : MonoBehaviour
         {
             Flip();
         }
-       
 
 
-     
+
+
         if (onGround)
-           rb.velocity = new Vector3(0, 0, 0);
-        
+            rb.velocity = new Vector3(0, 0, 0);
+
     }
     void Jump()
     {
@@ -178,8 +178,8 @@ public class Player : MonoBehaviour
         rb.velocity = new Vector2(rb.velocity.x, 0);
         rb.AddForce(Vector2.up * jumpSpeed, ForceMode.Impulse);
         jumpTimer = 0;
-     
-      
+
+
     }
     void modifyPhysics()
     {
@@ -187,20 +187,20 @@ public class Player : MonoBehaviour
 
         if (onGround)
         {
-           
+
             rb.useGravity = false;
         }
         else
         {
             rb.useGravity = true;
-          
+
         }
     }
     void Flip()
     {
         facingRight = !facingRight;
         characterHolder.gameObject.GetComponent<SpriteRenderer>().flipX = !facingRight;
-       
+
     }
     IEnumerator JumpSqueeze(float xSqueeze, float ySqueeze, float seconds)
     {
@@ -223,11 +223,11 @@ public class Player : MonoBehaviour
 
     }
 
-   
-   
+
+
     RaycastHit hit, hit1;
     RaycastHit[] hits;
- 
+
 
     public static bool isMoving, isJumping;
     Vector3 targetp;
@@ -241,7 +241,7 @@ public class Player : MonoBehaviour
 
             grounded = Physics.Raycast(transform.position, Vector3.down, out hit, 0.6f, LayerMask.GetMask("ground")) ? true : false;
 
-           
+
             if (RotRef.side % 2 == 0)
             {
                 targetp = -rayObject.transform.forward;
@@ -255,7 +255,7 @@ public class Player : MonoBehaviour
                     targetp = rayObject.transform.position + Vector3.right * 1000;
                 else
                     targetp = rayObject.transform.position + Vector3.left * 1000;
-               
+
             }
             hits = Physics.RaycastAll(rayObject.transform.position, targetp, 1000f, LayerMask.GetMask("ground"));
 
@@ -263,10 +263,10 @@ public class Player : MonoBehaviour
             if (hits.Length > 0)
             {
 
-               
+
                 if (!Physics.Raycast(rayObject.transform.position, transform.forward, out hit, 20f, LayerMask.GetMask("Default")))
                 {
-                  
+
                     Vector3 pos = transform.position;
 
                     if (RotRef.side % 2 == 0)
@@ -276,12 +276,12 @@ public class Player : MonoBehaviour
                         pos.x = hits[0].collider.transform.position.x;
 
                     }
-                  
+
                     transform.position = pos;
-                    
+
                     hits = null;
                 }
-               
+
             }
             else
             {
@@ -298,7 +298,7 @@ public class Player : MonoBehaviour
                         targetp = rayObject.transform.position + Vector3.left * 1000;
                     else
                         targetp = rayObject.transform.position + Vector3.right * 1000;
-                  
+
                 }
                 Debug.DrawLine(rayObject.transform.position, targetp, Color.blue);
 
@@ -308,7 +308,7 @@ public class Player : MonoBehaviour
 
                     if (!Physics.Raycast(rayObject.transform.position, transform.forward, out hit, 20f, LayerMask.GetMask("Default")))
                     {
-                      
+
                         if (RotRef.side % 2 == 0)
                             pos.z = hit1.collider.transform.position.z;
                         else
@@ -320,9 +320,9 @@ public class Player : MonoBehaviour
 
                     }
 
-                  
+
                 }
-              
+
 
             }
         }
