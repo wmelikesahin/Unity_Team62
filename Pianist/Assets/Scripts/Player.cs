@@ -33,7 +33,7 @@ public class Player : MonoBehaviour
 
     public bool onGround = false;
     public float groundLength = 0.6f;
-    public Vector3 colliderOffset;
+
 
 
     //Wall movement
@@ -48,9 +48,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+
         bool wasOnGround = onGround;
-        onGround = Physics.Raycast(transform.position + colliderOffset, Vector2.down, groundLength, groundLayer) ||
-            Physics.Raycast(transform.position - colliderOffset, Vector2.down, groundLength, groundLayer) ||
+        onGround = Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer) ||
+            Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer) ||
             Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer);
 
 
@@ -330,5 +331,5 @@ public class Player : MonoBehaviour
     }
 
 
-
 }
+

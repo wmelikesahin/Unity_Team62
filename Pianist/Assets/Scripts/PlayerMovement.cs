@@ -24,7 +24,6 @@ public class PlayerMovement : MonoBehaviour
     GameObject currCube = null;
 
     float Horizontal, Vertical;
-    [HideInInspector]
     public bool grounded, grounded2, walled, wallMove;
     float jump;
 
@@ -49,8 +48,8 @@ public class PlayerMovement : MonoBehaviour
         Vertical = Input.GetAxisRaw("Vertical");
 
         grounded2 = (Physics.Raycast(transform.position, Vector3.down, out hit, 0.7f, LayerMask.GetMask("ground")) ||
-            Physics.Raycast(transform.position + new Vector3(0.7f, 0, 0), Vector3.down, out hit, 0.7f, LayerMask.GetMask("ground")) ||
-            Physics.Raycast(transform.position - new Vector3(0.7f, 0, 0), Vector3.down, out hit, 0.7f, LayerMask.GetMask("ground")));
+           Physics.Raycast(transform.position + new Vector3(0.7f, 0, 0), Vector3.down, out hit, 0.7f, LayerMask.GetMask("ground")) ||
+           Physics.Raycast(transform.position - new Vector3(0.7f, 0, 0), Vector3.down, out hit, 0.7f, LayerMask.GetMask("ground")));
 
         walled = (Physics.Raycast(transform.position, transform.forward, out hit, 5f, LayerMask.GetMask("ladder")));
 
