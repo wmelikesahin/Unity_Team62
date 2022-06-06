@@ -218,18 +218,28 @@ Kod:
 
   Alınan kararlar: 
  
-  - 
-  - 
-  - 
-  - 
+  - Platform asset kullanılmadan üretildi.
+  - Nota toplama scripti yazıldı.
+  - Restart scripti yazıldı.
 
   Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
   
 - **Sprint Retrospective:**
  
-  - 
-  - 
-  - 
+  - Apk olarak çıktısInı almak yerine WebGL olarak çıktısnı karar verlidi.
+  - Konsepte uygun müzik içerikleri üretildi.
+  - Bu sprintte diğer sprintlere kıyasla daha senkronize çalıştık ve eşzamanlı işler üretebildik.
+  - İtibar artışı için UI ekleme kararından vazgeçildi.
+  - Hikaye içerisinde nota sesleri takibinden vazgeçildi.
+
+
+Kendi üretimimiz dışı indirilen assetler/ sesler:
+
+- https://assetstore.unity.com/packages/3d/characters/the-notes-17964#description
+- https://pixabay.com/tr/music/
+
+Tüm haklarımız saklıdır. 
+
 
 
 
