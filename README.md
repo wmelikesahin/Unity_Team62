@@ -226,7 +226,7 @@ Kod:
   
 - **Sprint Retrospective:**
  
-  - Apk olarak çıktısInı almak yerine WebGL olarak çıktısnı karar verlidi.
+  - Apk olarak çıktısını almak yerine WebGL olarak çıktı alınmasına karar verildi.
   - Konsepte uygun müzik içerikleri üretildi.
   - Bu sprintte diğer sprintlere kıyasla daha senkronize çalıştık ve eşzamanlı işler üretebildik.
   - İtibar artışı için UI ekleme kararından vazgeçildi.
