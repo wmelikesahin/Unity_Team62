@@ -188,7 +188,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 -Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
 
-- **Daily Scrum**: [Sprint 3 Daily Scrum Chats]
+
+- **Daily Scrum**: [Sprint 3 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/aa6ee41b8f27cdaf48544781077538e802385cf8/ProjectManagement/Sprint%203%20Daily%20Scrum%20Chats.docx)
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
