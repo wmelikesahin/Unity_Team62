@@ -195,6 +195,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: 
  Ekran görüntüleri:
+ 
+ ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/main.png)
+
+  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/Scene.png)
+ 
 ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum.png)
 
   ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum2.png)
