@@ -189,27 +189,30 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 -Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
 
 
-- **Daily Scrum**: [Sprint 3 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/aa6ee41b8f27cdaf48544781077538e802385cf8/ProjectManagement/Sprint%203%20Daily%20Scrum%20Chats.docx?raw=true)
+- **Daily Scrum**: [Sprint 3 Daily Scrum Chats](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/BulusmalarEkranGoruntuleri.docx)
 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
+- ![Backlog 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/Miro1.png)
+- ![Backlog 2](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/miro2.png)
+- ![Backlog 3](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/miro3.png)
 
 - **Ürün Durumu**: 
  Ekran görüntüleri:
  
- ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/main.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/SonDurum.png)
 
-  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/%C3%9Cr%C3%BCnTasar%C4%B1m%C4%B1/Scene.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/SonDurum2.png)
  
-![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/hikaye1.png)
 
-  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum2.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/theend.png)
 
 Kod:
-![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/KodDurumu.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/KodDurumu.png)
 
-  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/KodDurumu2.png)
+- ![Screenshot 1](https://github.com/wmelikesahin/Unity_Team62/blob/main/ProjectManagement/Sprint3Documents/KodDurumu2.png)
 
 - **Sprint Review**: 
 
