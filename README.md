@@ -173,6 +173,45 @@ Kod:
 ---
 
 # Sprint 3
+## Product Backlog URL
+
+[Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
+-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+-Sprint için hedeflenen puan: 55 Puan
+
+-Puan tamamlama mantığı: Fibonacci dizisi kullanılarak proje boyunca tamamlanması gereken toplam 342 puanlık backlog bulunmaktadır.
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
+- **Daily Scrum**: [Sprint 3 Daily Scrum Chats]
+
+
+
+
+
+
+- **Sprint Review**: 
+
+  Alınan kararlar: 
+ 
+  - 
+  - 
+  - 
+  - 
+
+  Sprint Review katılımcıları: Serdar Erdem, Elif Bilge Hamza, Ayşenur Aksoy, Emre Çakmak, Melike Şahin.
+  
+- **Sprint Retrospective:**
+ 
+  - 
+  - 
+  - 
+
+
+
 
 ---
 
