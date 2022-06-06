@@ -11,17 +11,14 @@ public class collecttonote : MonoBehaviour
         
     }
 
-    public void OnTriggerEnter(Collider Col)
+    public void OnTriggerEnter(Collider Other)
     {
-        if (Col.gameObject.tag == "Note")
-        {
-            if(Col.gameObject.tag == "Note")
+        if (Other.gameObject.tag == "Note")
+        
             {
-                Debug.Log("Note collected!");
-                notes = notes + 1;
-                Col.gameObject.SetActive(false);
+                Destroy(Other.gameObject);
             }
-        }
+        
     }
     // Update is called once per frame
     void Update()

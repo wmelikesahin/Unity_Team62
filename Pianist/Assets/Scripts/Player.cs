@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     [SerializeField] GameObject rayObject;
     [SerializeField] public Transform refForGameover;
 
-
+    private int notes = 0;
     public float moveSpeed = 10f;
     public Vector2 direction;
     private bool facingRight = true;
@@ -42,7 +42,8 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-
+        
+   
     }
 
 
@@ -329,7 +330,16 @@ public class Player : MonoBehaviour
         }
 
     }
-
+    void OnTriggerEnter(Collider Other)
+    {
+        if (Other.gameObject.tag == "Note")
+        {
+            Debug.Log("Note collected!");
+            notes++;
+            Debug.Log(notes);
+           Destroy(Other.gameObject);
+        }
+    }
 
 }
 
