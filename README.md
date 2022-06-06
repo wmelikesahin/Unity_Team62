@@ -176,6 +176,7 @@ Kod:
 ## Product Backlog URL
 
 [Miro Backlog Board] https://miro.com/app/board/uXjVO4_ikzs=/ 
+
 -Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 -Sprint için hedeflenen puan: 55 Puan
@@ -186,12 +187,22 @@ Kod:
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 -Daily Scrum: Daily Scrum toplantılarınıı whatsapp, pinterest, sesli görüşmeler içinde discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır.
+
 - **Daily Scrum**: [Sprint 3 Daily Scrum Chats]
 
 
+- **Sprint board update**: Sprint board screenshotları: 
 
+- **Ürün Durumu**: 
+ Ekran görüntüleri:
+![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum.png)
 
+  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/SonDurum2.png)
 
+Kod:
+![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/KodDurumu.png)
+
+  ![Screenshot 1](https://raw.githubusercontent.com/wmelikesahin/Unity_Team62/main/ProjectManagement/KodDurumu2.png)
 
 - **Sprint Review**: 
 
