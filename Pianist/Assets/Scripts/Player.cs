@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -49,7 +50,11 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        if (notes >= 2)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 
+        }
         bool wasOnGround = onGround;
         onGround = Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer) ||
             Physics.Raycast(transform.position, Vector2.down, groundLength, groundLayer) ||
