@@ -32,7 +32,7 @@ public class RotRef : MonoBehaviour
     public float skyRotSpeed = 1f;
     void Update()
     {
-
+        //sky.SetFloat("_Rotation", time * skyRotSpeed);
         time += Time.deltaTime;
         if (time >= 360) time = 0f;
 
